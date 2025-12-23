@@ -14,6 +14,16 @@ Very useful tips for modern C++ learning material
 
 https://www.modernescpp.org/resources/
 
+
+# A list of open-source C++ libraries
+
+The objective of this page is to build a comprehensive list of open-source 
+C++ libraries, so that when one needs an implementation of particular 
+functionality, one needn’t to waste time searching on web.
+
+https://en.cppreference.com/w/cpp/links/libs
+
+
 ## Contributing
 
 To add, remove or change things on the list:
