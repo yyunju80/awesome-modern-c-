@@ -8,7 +8,7 @@ A collection of resources on modern C++.
 The goal is to collect a list of resources to help people learn about
 and leverage modern C++11 and beyond.
 
-# Awesome Website about modern C++
+# Awesome website about modern C++
 
 Very useful tips for modern C++ learning material
 
