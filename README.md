@@ -8,6 +8,12 @@ A collection of resources on modern C++.
 The goal is to collect a list of resources to help people learn about
 and leverage modern C++11 and beyond.
 
+# Awesome Website about modern C++
+
+Very useful tips for modern C++ learning material
+
+https://www.modernescpp.org/resources/
+
 ## Contributing
 
 To add, remove or change things on the list:
